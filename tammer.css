@@ -1,0 +1,87 @@
+body {
+	background-image: url("http://i.imgur.com/YGiQgKe.png");
+} 
+a { 
+	background-color: #27cecb; 
+	padding: 20px; 
+	border: 2px solid #27cecb; 
+	margin: 30px;
+	width: 100%; 
+}
+p {
+	font-size: 20px;
+} 
+
+ul li {
+	display: inline;
+	top: 50px;
+}
+nav { 
+	position: fixed; top: 85px; 
+	font-family: 'Indie Flower', cursive;
+	background-color: #27cecb;
+	width: 100%;
+	font-size: 20px;
+}
+ nav, article, section, aside, footer {
+ padding: 10px;
+ 
+}
+h1{
+	display:inline;
+	position: absolute;
+	left: 10px;
+	top: 25px;
+}
+aside {
+    width: 25%;
+    height: 150px;
+    float: left;
+    position: relative;
+    float: right;
+    right: 0px;
+    top: 350px;
+    margin-bottom: 50px;
+    background-color: #1fa1ad;
+}
+footer {
+	position: fixed;
+   	bottom: 0px;
+    height: 60px;
+    width: 100%;
+    background-color: #1fa1ad;
+    z-index: 1000;
+    text-align: center;
+}
+article {
+	font-family: 'Indie Flower', cursive;
+	background-color: #23b6c4;
+    position: relative;
+    width: 66%;
+    float: left;
+    left: 0px;
+    top: 180px;
+    margin-bottom: 50px;
+    left: 0px
+}
+.relative{
+	position: relative;
+	top: 30px;
+	text-decoration: underline;
+	border-style: groove;
+}
+.header {
+	font-family: 'Indie Flower', cursive;
+	position: fixed;
+    left: 0px;
+    top: 0px;
+    height: 85px;
+    width: 100%;
+    background-color: #1fa1ad;
+    z-index: 1000;
+    padding: 5px 10px 10px;
+}
+#fixed {
+	position: fixed;
+	left: 400px;
+}
