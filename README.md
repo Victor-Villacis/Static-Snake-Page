@@ -7,3 +7,6 @@ Just CSS and HTML
 
 ## Before and After
 ![Before&After](/images/before-after.gif)
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7dd5f599-ac3c-4ebb-8b41-3d7e93e21a4d/deploy-status)](https://app.netlify.com/sites/static-snake/deploys)
