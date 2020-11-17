@@ -5,5 +5,5 @@ One of my first projects I created. I went back and quickly added bootstrap and 
 
 Just CSS and HTML
 
-#Before and After
+## Before and After
 ![Before&After](/images/before-after.gif)
