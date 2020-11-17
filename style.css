@@ -1,0 +1,41 @@
+
+
+html {
+	font-size: 1.2rem;
+}
+@font-face {
+  font-family: 'Metalgear';
+	src: url('Metalgear.ttf')  format('truetype');
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.divider {
+	margin: 5rem 0;
+}
+
+body {
+	background: url("http://wallpapercave.com/wp/hRyX871.jpg")  fixed !important;
+	background-size: cover !important;
+	color: rgb(240, 230, 230) !important;
+
+}
+
+main {
+background: rgb(142,130,135);
+background: radial-gradient(circle, rgba(142,130,135,0.5662640056022409) 0%, rgba(68,23,53,0.5438550420168067) 14%, rgba(68,23,53,1) 34%, rgba(15,50,190,0.40379901960784315) 49%, rgba(14,128,175,1) 63%, rgba(13,125,135,0.196516106442577) 76%, rgba(16,242,137,0.27494747899159666) 100%);
+}
+
+
+.featurette-heading {
+	color: rgb(184, 89, 89);
+	font-family: "Metalgear";
+}
+
+article {
+	text-align: center;
+}
